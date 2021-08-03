@@ -4,7 +4,7 @@ import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
-public class javafile1 {
+public class randomchjscr {
 
     public static void main(String[] args) throws IOException, InterruptedException {
 
